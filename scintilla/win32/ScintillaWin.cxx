@@ -1111,7 +1111,7 @@ UINT CodePageFromCharSet(DWORD characterSet, UINT documentCodePage) {
 	case SC_CHARSET_BALTIC: return 1257;
 	case SC_CHARSET_CHINESEBIG5: return 950;
 	case SC_CHARSET_EASTEUROPE: return 1250;
-	case SC_CHARSET_GB2312: return 936;
+	case SC_CHARSET_GB2312: return 54936;
 	case SC_CHARSET_GREEK: return 1253;
 	case SC_CHARSET_HANGUL: return 949;
 	case SC_CHARSET_MAC: return 10000;

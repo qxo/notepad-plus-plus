@@ -414,7 +414,7 @@
     #define    IDM_FORMAT_DOS_866           (IDM_FORMAT_ENCODE + 38)
     #define    IDM_FORMAT_DOS_869           (IDM_FORMAT_ENCODE + 39)
     #define    IDM_FORMAT_BIG5              (IDM_FORMAT_ENCODE + 40)
-    #define    IDM_FORMAT_GB2312            (IDM_FORMAT_ENCODE + 41)
+    #define    IDM_FORMAT_GB18030           (IDM_FORMAT_ENCODE + 41)
     #define    IDM_FORMAT_SHIFT_JIS         (IDM_FORMAT_ENCODE + 42)
     #define    IDM_FORMAT_KOREAN_WIN        (IDM_FORMAT_ENCODE + 43)
     #define    IDM_FORMAT_EUC_KR            (IDM_FORMAT_ENCODE + 44)
